@@ -1,0 +1,7 @@
+{
+  "search-engine": "http://google.com/search?q={}&num=1000",
+  "css-selector": "h3 a",
+  "url-startswith": "/url?q=",
+  "url-is-query": true,
+  "url-query": "q"
+}
