@@ -10,6 +10,8 @@ if __name__ == "__main__":
     urls = []
     for dork in open("dorks.txt", "r").readlines():
         dork = dork.strip()
+        if len(dork) < 2:
+            continue
         lls = scanner.search_urls(dork)
         if lls is None:
             print("your ip got blocked!")
