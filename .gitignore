@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# config and stuff
+config.json
+dorks.txt
+output/
