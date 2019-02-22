@@ -1,3 +1,1 @@
-inurl: "login.asp?id=1"
-inurl: "admin.asp?id=1"
-inurl: "admin/minecraft.htm?id=1"
+inurl: "example.html"
